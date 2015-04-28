@@ -18,6 +18,10 @@
       "settingsMap" : {
         "label": "Preset template mappings",
         "helpText": "Settings for ticket types to set groups for bulk ticket creates. It needs to be in a JSON format"
+      },
+      "preventParentSolving": {
+        "label": "Prevent Parent Ticket Solving?",
+        "helpText": "Forbids parent ticket solving if there are any child tickets still open or pending"
       }
     }
   },

@@ -18,6 +18,9 @@
 		"name": "settingsMap",
 		"type": "multiline",
 		"required": false
+	}, {
+		"name": "preventParentSolving",
+		"type": "checkbox"
 	}],
 	"frameworkVersion": "1.0",
 	"location": "ticket_sidebar",
